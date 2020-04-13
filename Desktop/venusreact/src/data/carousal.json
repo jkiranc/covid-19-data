@@ -1,0 +1,671 @@
+{
+    "menu": [
+      {
+        "title": "Service Request",
+        "img": "servicerequest.jpg",
+        "desc": "Request for a service of your appliance.",
+        "button": ["Service Request"],
+        "value": ["Service Request"]
+      },
+      {
+        "title": "Installation",
+        "img": "installation.jpg",
+        "desc": "Raise an installation request for your appliance.",
+        "button": ["Installation Request"],
+        "value": ["Installation Request"]
+      },
+      {
+        "title": "Pending Request Status",
+        "img": "pendingcomplaint.jpg",
+        "desc": "Get the details of your pending requests",
+        "button": ["Pending Requests"],
+        "value": ["Pending Complaint"]
+      },
+      {
+        "title": "Contact Us",
+        "img": "contact.jpg",
+        "desc": "Want to get in touch with us? Know how to reach us.",
+        "button": ["Get Details"],
+        "value": ["contact"]
+      },
+      {
+        "title": "Other",
+        "img": "other.jpg",
+        "desc": "Need something Else? We would love to hear from you.",
+        "button": ["Let Us Know"],
+        "value": ["Other Enquiry"]
+      }
+    ],
+  
+    "Splash GI": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main menu"
+        ]
+      }
+    ],
+  
+    "Magma GV": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main menu"
+        ]
+      }
+    ],
+  
+    "Lyra": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main menu"
+        ]
+      }
+    ],
+  
+    "Splash Copper": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main menu"
+        ]
+      }
+    ],
+  
+    "Calora": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main menu"
+        ]
+      }
+    ],
+  
+    "Lava": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main menu"
+        ]
+      }
+    ],
+  
+    "Other Heater Type": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": [
+          "1",
+          "3",
+          "6",
+          "10",
+          "15",
+          "25",
+          "Other",
+          "Change Model",
+          "Main menu"
+        ]
+      }
+    ],
+  
+    "Ceiling Fans": [
+      {
+        "title": "Select your Fan Model",
+        "img": "",
+        "button": [
+          "Matrix",
+          "Vector",
+          "Adorna",
+          "Zapper",
+          "Wintair",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": [
+          "Matrix",
+          "Vector",
+          "Adorna",
+          "Zapper",
+          "Wintair",
+          "Other Model",
+          "Change Model",
+          "Main menu"
+        ]
+      }
+    ],
+  
+    "Table Fans": [
+      {
+        "title": "Select your Fan Model",
+        "img": "",
+        "button": [
+          "Xprez",
+          "Sway",
+          "Storm",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": [
+          "Xprez",
+          "Sway",
+          "Storm",
+          "Other Model",
+          "Change Model",
+          "Main menu"
+        ]
+      }
+    ],
+  
+    "Pedestal Fans": [
+      {
+        "title": "Select your Fan Model",
+        "img": "",
+        "button": [
+          "Xprez",
+          "Sway",
+          "Storm",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": [
+          "Xprez",
+          "Sway",
+          "Storm",
+          "Other Model",
+          "Change Model",
+          "Main menu"
+        ]
+      }
+    ],
+  
+    "Wall Fans": [
+      {
+        "title": "Select your Fan Model",
+        "img": "",
+        "button": [
+          "Xprez",
+          "Sway",
+          "Storm",
+          "Other",
+          "Change Model",
+          "Main Menu"
+        ],
+        "value": ["Xprez", "Sway", "Storm", "Other", "Change Model", "Main menu"]
+      }
+    ],
+  
+    "Exhaust Fans": [
+      {
+        "title": "Select your Fan Model",
+        "img": "",
+        "button": ["Vestra", "Exair", "Other", "Change Model", "Main Menu"],
+        "value": ["Vestra", "Exair", "Other", "Change Model", "Main menu"]
+      }
+    ],
+  
+    "Flat Plate Model": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": ["100", "200", "500", ">500", "Change Model", "Main Menu"],
+        "value": ["100", "200", "500", ">500", "Change Model", "Main Menu"]
+      }
+    ],
+  
+    "Vacuum Tube Collector Model": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": ["100", "200", "500", ">500", "Change Model", "Main Menu"],
+        "value": ["100", "200", "500", ">500", "Change Model", "Main Menu"]
+      }
+    ],
+  
+    "Other Solar Water Heater": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": ["100", "200", "500", ">500", "Change Model", "Main Menu"],
+        "value": ["100", "200", "500", ">500", "Change Model", "Main Menu"]
+      }
+    ],
+  
+    "VDH200": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": ["100", "200", "500", ">500", "Change Model", "Main Menu"],
+        "value": ["100", "200", "500", ">500", "Change Model", "Main Menu"]
+      }
+    ],
+  
+    "VCH10i": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": ["100", "200", "500", ">500", "Change Model", "Main Menu"],
+        "value": ["100", "200", "500", ">500", "Change Model", "Main Menu"]
+      }
+    ],
+  
+    "VCH20i": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": ["100", "200", "500", ">500", "Change Model", "Main Menu"],
+        "value": ["100", "200", "500", ">500", "Change Model", "Main Menu"]
+      }
+    ],
+  
+    "Other Heat Pump Model": [
+      {
+        "title": "Select a Capacity (litres)",
+        "img": "",
+        "button": ["100", "200", "500", ">500", "Change Model", "Main Menu"],
+        "value": ["100", "200", "500", ">500", "Change Model", "Main Menu"]
+      }
+    ],
+  
+    "Service Request": [
+      {
+        "title": "Select a product",
+        "img": "",
+        "button": [
+          "Water Heater",
+          "Fans",
+          "Solar Water Heater",
+          "Heat Pump Water Heater",
+          "Other",
+          "Main Menu"
+        ],
+        "value": [
+          "Water Heater",
+          "Fans",
+          "Solar Water Heater",
+          "Heat Pump Water Heater",
+          "Other Product",
+          "Main Menu"
+        ]
+      }
+    ],
+  
+    "Installation Request": [
+      {
+        "title": "Select a product",
+        "img": "",
+        "button": [
+          "Water Heater",
+          "Fans",
+          "Solar Water Heater",
+          "Heat Pump Water Heater",
+          "Other",
+          "Main Menu"
+        ],
+        "value": [
+          "Water Heater",
+          "Fans",
+          "Solar Water Heater",
+          "Heat Pump Water Heater",
+          "Other Product",
+          "Main Menu"
+        ]
+      }
+    ],
+  
+    "Water Heater": [
+      {
+        "title": "Select a water heater type",
+        "img": "",
+        "button": [
+          "Splash GI",
+          "Magma GV",
+          "Lyra",
+          "Splash Copper",
+          "Calora",
+          "Lava",
+          "Other",
+          "Change Product",
+          "Main Menu"
+        ],
+        "value": [
+          "Splash GI",
+          "Magma GV",
+          "Lyra",
+          "Splash Copper",
+          "Calora",
+          "Lava",
+          "Other Heater Type",
+          "Change Product",
+          "Main Menu"
+        ]
+      }
+    ],
+  
+    "Fans": [
+      {
+        "title": "Select a fan type",
+        "img": "",
+        "button": [
+          "Ceiling Fans",
+          "Table Fans",
+          "Pedestal Fans",
+          "Wall Fans",
+          "Exhaust Fans",
+          "Change Product",
+          "Main Menu"
+        ],
+        "value": [
+          "Ceiling Fans",
+          "Table Fans",
+          "Pedestal Fans",
+          "Wall Fans",
+          "Exhaust Fans",
+          "Change Product",
+          "Main Menu"
+        ]
+      }
+    ],
+  
+    "Solar Water Heater": [
+      {
+        "title": "Select a solar water heater model",
+        "img": "",
+        "button": [
+          "Domestic Solar Water Heater",
+          "Commercial Solar Water Heater",
+          "Change Product",
+          "Main Menu"
+        ],
+        "value": [
+          "Domestic Solar Water Heater",
+          "Commercial Solar Water Heater",
+          "Change Product",
+          "Main Menu"
+        ]
+      }
+    ],
+  
+    "Domestic Solar Water Heater": [
+      {
+        "title": "Select a solar water heater type",
+        "img": "",
+        "button": [
+          "Flat Plate Model",
+          "Vacuum Tube Collector Model",
+          "Other",
+          "Change Product",
+          "Main Menu"
+        ],
+        "value": [
+          "Flat Plate Model",
+          "Vacuum Tube Collector Model",
+          "Other Solar Water Heater",
+          "Change Product",
+          "Main Menu"
+        ]
+      }
+    ],
+  
+    "Commercial Solar Water Heater": [
+      {
+        "title": "Select a solar water heater type",
+        "img": "",
+        "button": [
+          "Flat Plate Model",
+          "Vacuum Tube Collector Model",
+          "Other",
+          "Change Product",
+          "Main Menu"
+        ],
+        "value": [
+          "Flat Plate Model",
+          "Vacuum Tube Collector Model",
+          "Other Solar Water Heater",
+          "Change Product",
+          "Main Menu"
+        ]
+      }
+    ],
+  
+    "Heat Pump Water Heater": [
+      {
+        "title": "Select a heat pump model type",
+        "img": "",
+        "button": [
+          "Domestic Heat Pump Water Heater",
+          "Commercial Heat Pump Water Heater",
+          "Change Product",
+          "Main Menu"
+        ],
+        "value": [
+          "Domestic Heat Pump Water Heater",
+          "Commercial Heat Pump Water Heater",
+          "Change Product",
+          "Main Menu"
+        ]
+      }
+    ],
+  
+    "Domestic Heat Pump Water Heater": [
+      {
+        "title": "Select a heat pump water heater type",
+        "img": "",
+        "button": [
+          "VDH200",
+          "VCH10i",
+          "VCH20i",
+          "Other",
+          "Change Product",
+          "Main Menu"
+        ],
+        "value": [
+          "VDH200",
+          "VCH10i",
+          "VCH20i",
+          "Other Heat Pump Model",
+          "Change Product",
+          "Main Menu"
+        ]
+      }
+    ],
+  
+    "Commercial Heat Pump Water Heater": [
+      {
+        "title": "Select a heat pump water heater type",
+        "img": "",
+        "button": [
+          "VDH200",
+          "VCH10i",
+          "VCH20i",
+          "Other",
+          "Change Product",
+          "Main Menu"
+        ],
+        "value": [
+          "VDH200",
+          "VCH10i",
+          "VCH20i",
+          "Other Heat Pump Model",
+          "Change Product",
+          "Main Menu"
+        ]
+      }
+    ],
+  
+    "contact": [
+      {
+        "title": "Choose an option",
+        "img": "",
+        "button": ["Email", "Phone", "Address", "Website", "Main Menu"],
+        "value": ["Email", "Phone", "Address", "Website", "Main Menu"]
+      }
+    ],
+    "Email":[{
+      "title":"customercare@venushomeappliances.com / enquiry@venushomeappliances.com"
+    }],
+    "Phone":[{
+      "title":"Call Us @ 081 4466 6999, +91-044 - 43401515 & We are also available in whatsapp +91 9884064999"
+    }],
+
+    "Address":[{
+      "title":"No. 4/993, Kamaraj St, Rajiv Gandhi Salai(OMR), Kottivakkam, Perungudi Post, Chennai-600096, India."
+    }],
+
+    "Website":[{
+      "title":"https://www.venushomeappliances.com"
+    }],
+  
+    "Get Details": [
+      {
+        "title": "Choose an option",
+        "img": "",
+        "button": ["Email", "Phone", "Address", "Website", "Main Menu"],
+        "value": ["Email", "Phone", "Address", "Website", "Main Menu"]
+      }
+    ],
+  
+    "Contact Details": [
+      {
+        "title": "Choose an option",
+        "img": "",
+        "button": ["Email", "Phone", "Address", "Website", "Main Menu"],
+        "value": ["Email", "Phone", "Address", "Website", "Main Menu"]
+      }
+    ]
+    
+  }
