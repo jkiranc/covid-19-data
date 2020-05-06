@@ -1,0 +1,240 @@
+{
+    "carouseldata": {
+      "Main Menu": {
+        "title": "Choose your option",
+        "value": [
+          "View Offers",
+          "Service",
+          "EMI Eligibility",
+          "Store Locator",
+          "Contact Us"
+        ]
+      },
+      "View Offers": {
+        "title": "Choose your Deal",
+        "value": [
+          "LED TV Offers",
+          "Refridgerator Offers",
+          "Washing Machine Offers",
+          "Air Conditioner Offers",
+          "Mobile Phones Offers",
+          "Kitchen Appliances Offers",
+          "Other Offers",
+          "Main Menu"
+        ]
+      },
+      "Service": {
+        "title": "Raise a service or installation request",
+        "value": [
+          "Service Request",
+          "Installation Request",
+          "Pending Requests",
+          "Other Requests",
+          "Main Menu"
+        ]
+      },
+  
+      "Service Request": {
+        "title": "Select the category",
+        "value": [
+          "LED TV",
+          "Refridgerator",
+          "Washing Machine",
+          "Air Conditioner",
+          "Mobile Phones",
+          "Kitchen Appliances",
+          "Furniture",
+          "Other",
+          "Main Menu"
+        ]
+      },
+      "Installation Request": {
+        "title": "Select the category",
+        "value": [
+          "LED TV",
+          "Refridgerator",
+          "Washing Machine",
+          "Air Conditioner",
+          "Kitchen Appliances",
+          "Furniture",
+          "Other",
+          "Main Menu"
+        ]
+      },
+      "Kitchen Appliances": {
+        "title": "Select the appliance",
+        "value": [
+          "Oven",
+          "Water Heater",
+          "Air Cooler",
+          "Chimney",
+          "Gas Stove",
+          "Mixie",
+          "Other",
+          "Change Category",
+          "Main Menu"
+        ]
+      },
+      "Oven": {
+        "title": "Select the Brand",
+        "value": [
+          "IFB",
+          "LG",
+          "Samsung",
+          "Panasonic",
+          "Other",
+          "Change Appliance",
+          "Main Menu"
+        ]
+      },
+      "Water Heater": {
+        "title": "Select the Brand",
+        "value": [
+          "Venus",
+          "Vguard",
+          "Havells",
+          "Haier",
+          "Other",
+          "Change Appliance",
+          "Main Menu"
+        ]
+      },
+      "Air Cooler": {
+        "title": "Select the Brand",
+        "value": [
+          "Bajaj",
+          "Orient",
+          "Symhony",
+          "Hindware",
+          "Other",
+          "Change Appliance",
+          "Main Menu"
+        ]
+      },
+      "Chimney": {
+        "title": "Select the Brand",
+        "value": [
+          "Elica",
+          "Faber",
+          "Glen",
+          "Butterfly",
+          "Preethi",
+          "Other",
+          "Change Appliance",
+          "Main Menu"
+        ]
+      },
+      "Gas Stove": {
+        "title": "Select the Brand",
+        "value": [
+          "Elica",
+          "Butterfly",
+          "Prestige",
+          "Vidium",
+          "Preethi",
+          "Other",
+          "Change Appliance",
+          "Main Menu"
+        ]
+      },
+      "Mixie": {
+        "title": "Select the Brand",
+        "value": [
+          "Preethi",
+          "Butterfly",
+          "Vidium",
+          "Ultra",
+          "Other",
+          "Change Appliance",
+          "Main Menu"
+        ]
+      },
+      "LED TV": {
+        "title": "Select the Brand",
+        "value": [
+          "Samsung",
+          "Sony",
+          "LG",
+          "Panasonic",
+          "Haier",
+          "Other",
+          "Change Category",
+          "Main Menu"
+        ]
+      },
+      "Refridgerator": {
+        "title": "Select the Brand",
+        "value": [
+          "Samsung",
+          "LG",
+          "Godrej",
+          "Whirlpool",
+          "Panasonic",
+          "Haier",
+          "Other",
+          "Change Category",
+          "Main Menu"
+        ]
+      },
+      "Washing Machine": {
+        "title": "Select the Brand",
+        "value": [
+          "Samsung",
+          "LG",
+          "Bosch",
+          "IFB",
+          "Siemens",
+          "Whirlpool",
+          "Other",
+          "Change Category",
+          "Main Menu"
+        ]
+      },
+      "Air Conditioner": {
+        "title": "Select the Brand",
+        "value": [
+          "Carrier",
+          "Bluestar",
+          "Daikin",
+          "Panasonic",
+          "LG",
+          "Voltas",
+          "Other",
+          "Change Category",
+          "Main Menu"
+        ]
+      },
+      "Mobile Phones": {
+        "title": "Select the Brand",
+        "value": [
+          "Samsung",
+          "Oppo",
+          "Vivo",
+          "RedMi",
+          "Apple",
+          "Other",
+          "Change Category",
+          "Main Menu"
+        ]
+      },
+      "Furniture": {
+        "title": "Select the type",
+        "value": [
+          "Sofa",
+          "Cot",
+          "Mattress",
+          "Dining Table",
+          "Wardrobe",
+          "Fitness",
+          "Kitchen",
+          "Other",
+          "Change Category",
+          "Main Menu"
+        ]
+      },
+      "Store Locator": {
+        "title": "Choose your option",
+        "value": ["Nearest Store Locator", "View all Stores", "Main Menu"]
+      }
+    }
+  }
